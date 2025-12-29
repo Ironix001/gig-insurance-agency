@@ -1,0 +1,34 @@
+{
+  "name": "gig-insurance-agency",
+  "version": "1.0.0",
+  "description": "GIG Insurance Agency Website with Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "insurance",
+    "kenya",
+    "gig-economy"
+  ],
+  "author": "GIG Insurance Agency",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.7",
+    "body-parser": "^1.20.2",
+    "sqlite3": "^5.1.6"
+  },
+  "netlify": {
+    "functions": {
+      "node_bundler": "esbuild"
+    }
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+
