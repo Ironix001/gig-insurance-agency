@@ -161,7 +161,7 @@ To view contacts:
 
 - **Office**: Katani Road, Syokimau
 - **Phone**: +254 724 280585
-- **Email**: giginsuranceagency@gmail.com
+- **Email**: info@giginsuranceagency.net
 
 ## License
 

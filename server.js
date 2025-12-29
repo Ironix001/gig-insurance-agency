@@ -177,13 +177,13 @@ async function sendConfirmationEmail(customerEmail, customerName) {
                 <p>In the meantime, feel free to reach out to us directly:</p>
                 <ul>
                     <li><strong>Phone:</strong> +254 724 280585</li>
-                    <li><strong>Email:</strong> giginsuranceagency@gmail.com</li>
+                    <li><strong>Email:</strong> info@giginsuranceagency.net</li>
                     <li><strong>Office:</strong> Katani Road, Syokimau</li>
                 </ul>
                 <hr>
                 <p style="color: #666; font-size: 12px;">
                     GIG Insurance Agency - Protecting What Matters Most<br>
-                    <a href="mailto:giginsuranceagency@gmail.com">giginsuranceagency@gmail.com</a>
+                    <a href="mailto:info@giginsuranceagency.net">info@giginsuranceagency.net</a>
                 </p>
             </div>
         `
